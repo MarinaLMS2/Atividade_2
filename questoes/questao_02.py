@@ -1,7 +1,7 @@
 class PortalDimensional:
     def __init__(self, nome, destino, energia_necessaria, energia_disponivel):
       self.nome = nome 
-      self.destino = destino
+      self.destino = destino  
       self.energia_necessaria = energia_necessaria
       self.energia_disponivel = energia_disponivel
 
